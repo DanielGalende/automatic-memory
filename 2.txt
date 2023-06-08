@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello World
 another line
 3 sentence
 another one
 the last line
+=======
+Hello World
+>>>>>>> parent of 3151b9a (2º commit)
